@@ -63,6 +63,8 @@
 - **각오**
   - 유레카 프로젝트를 통해 전공에 대한 **동기와 이해도**를 높였습니다. 직접적인 체험으로 전공의 실제 의미를 깨닫고, 학업과 진로에 큰 **자산**이 될 것입니다.
 
+---
+
 ## 🎯 우리의 관심사
 
 <table>
@@ -83,6 +85,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 활동
 
@@ -130,13 +134,13 @@
      <td>
       <img src="https://github.com/user-attachments/assets/b7ae8338-abe5-48e2-827c-3fb8f205fd38" alt="정통처 탐방 이미지" width="300">
     </td>
-    <td style="text-align:center;">
+    <td>
       <b>[3, 4학년 과목 담당 최은미 교수님]</b><br>
       <img src="https://github.com/user-attachments/assets/cc15ed70-0f32-4e2c-b782-142a287c2fee" alt="3, 4학년 교수님 인터뷰 이미지" width="300">
     </td>
-    <td style="text-align:center;">
-      <b>[누군가님]</b><br>
-      <img src="https://github.com/user-attachments/assets/5c720a4a-da2a-41f1-806d-b01ec655078d" alt="교수님 인터뷰 이미지" width="300">
+    <td>
+      <b>[한재섭 교수님]</b><br>
+      <img src="https://github.com/user-attachments/assets/670b7884-1c80-496d-904b-34cbec0bb154" alt="교수님 인터뷰 이미지" width="300">
     </td>
   </tr>
 </table>
